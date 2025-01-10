@@ -23,6 +23,8 @@ logarithms, exponents, and special functions (e.g., factorial, random number). A
 
 ![demo](<Screenshot 2025-01-10 105943.png>)
 
+# Link for the website : https://calculator-chi-flax-19.vercel.app/
+
 
 # How to Run the Project
 Follow these steps to set up and run the Scientific Calculator on your local machine:
