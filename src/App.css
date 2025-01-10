@@ -1,0 +1,19 @@
+/* src/styles/App.css */
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e7e3e399;
+ 
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
